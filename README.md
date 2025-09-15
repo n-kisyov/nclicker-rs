@@ -13,3 +13,6 @@ Features
  Light/Dark Themes - Switch between UI themes
  Real-time Status - Shows running state and click count
  Thread-safe Design - Non-blocking UI during operation
+
+
+<img width="556" height="347" alt="image" src="https://github.com/user-attachments/assets/ba9ef0a6-99b0-46fd-8dce-ed2654ed82e2" />
